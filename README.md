@@ -9,6 +9,7 @@ Below are step you need to perform before running the application .
 Step 1 : Go to twitter developer console and create a a project and https://developer.twitter.com/
 
 Step 2 : Now take below keys and secret from the settings:
+
          * ConsumerKey
          * ConsumerSecret
          * AccessToken
